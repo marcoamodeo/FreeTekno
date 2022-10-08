@@ -22,12 +22,6 @@ a.nav-item.nav-link.active{
 	background-color: chartreuse;
 
 }
-#backindex{
-	background-image:url("https://github.com/marcoamodeo/FreeTekno/blob/main/img/sfondo.JPG");
-	background-size: cover;
-    background-attachment: fixed;
-    text-align: center;
-}
 
 header{
 	background-color: black;
@@ -41,21 +35,6 @@ p{
 	color: #f0eded;
 	/*background-color: #464646;*/
 }
-#homelay{
-	
-}
-
-#storialay{
-}
-
-#musicalay{
-
-}
-
-#ravelay{
-
-}
-
 #titolini{
 	font-family: 'ArcadeClassic', sans-serif;                                            	
 	font-size: x-large;
@@ -183,7 +162,5 @@ p{
 .container {
  position: relative;
 }
-#cssstoria {
-	background: url("..img/sfondostoria.jpg");
 
-}
+
