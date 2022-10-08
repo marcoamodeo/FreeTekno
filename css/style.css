@@ -20,6 +20,13 @@ body {
 a.nav-item.nav-link.active{
 	color: black;
 	background-color: chartreuse;
+
+}
+#backindex{
+	background: url("../img/sfondo.jpg");
+	background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
 }
 
 header{
