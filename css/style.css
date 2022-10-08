@@ -23,7 +23,7 @@ a.nav-item.nav-link.active{
 
 }
 #backindex{
-	background: url("img/sfondo.JPG");
+	background-image: "../img/sfondo.JPG";
 	background-size: cover;
     background-attachment: fixed;
     text-align: center;
